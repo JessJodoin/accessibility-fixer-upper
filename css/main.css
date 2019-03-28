@@ -12,7 +12,6 @@ html {
 
 a {
   color: #568c36;
-  text-decoration: none;
 }
 
 a:hover {
@@ -67,12 +66,7 @@ td {
   background-color: #eeebe9;
 }
 
-.underline {
-  text-decoration: underline;
-}
-
-.underline2 {
-  text-decoration: underline;
+.colour-dark {
   color: #113c00;
 }
 
